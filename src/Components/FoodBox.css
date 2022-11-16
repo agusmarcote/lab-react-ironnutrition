@@ -1,0 +1,4 @@
+.foodBoxCard{
+    display: flex;
+    flex-wrap: wrap;
+}
